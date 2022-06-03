@@ -1,0 +1,25 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Øã‚£üÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(Øã‚£üÿÿÿÿ
+E
+java:S3740P"/Provide the parametrized type for this generic.(³ã±ó
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ýª¢Y
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŽÊû”úÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Øã‚£üÿÿÿÿ
+‚
+java:S1319H"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(óª´~
+…
+java:S1319L"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Âøû+
+†
+java:S1319P"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(³ã±ó
+V	java:S125"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ
+]	java:S125:"<This block of commented-out lines of code should be removed.(™¼‘¼üÿÿÿÿ8Ý¹üÕ’0
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ÙÓ°¢8Ý¹üÕ’0
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(Îêùøÿÿÿÿ8Ý¹üÕ’0
+C
+java:S1068"(Remove this unused "link" private field.(ö‡×àþÿÿÿÿ
