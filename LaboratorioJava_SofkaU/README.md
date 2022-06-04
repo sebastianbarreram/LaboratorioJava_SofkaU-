@@ -18,5 +18,7 @@ Se debe indicar en la variable link, que es de tipo String, la dirección de don
 ejemplo:
 String link = "C:\\Users\\Acer\\Desktop\\LaboratorioJava_SofkaU-\\LaboratorioJava_SofkaU\\data.json";.
 
+El elemento \ en los dos casos de link debe ser doble.
+
 Para el buen funcionamiento de la aplicación se debe ejecutar el archivo Main.java en un entorno de desarrollo integrado (IDE) como por ejemplo con 
 IntelliJ o un editor de código fuente como lo es Visual Studio Code.
