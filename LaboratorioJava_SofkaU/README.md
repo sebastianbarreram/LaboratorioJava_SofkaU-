@@ -4,8 +4,8 @@ Se realizó una aplicación para el juego de preguntas. Se utiliza un archivo de
 para la letura de la base de datos de preguntas.
 
 Para iniciar el juego se debe indicar primero el nombre del usuario por consola y luego dar al botón ENTER.
-Para dar respuesta a cada pregunta se debe indicar por consola una única respuesta entre la A, B, C o D y luego pulsar ENTER para validar así su repuesta.
-Puede salir del juego cuando desee ingresando por consola la letra x (equis) sin perder el acumulado de puntos.
+Para dar respuesta a cada pregunta se debe indicar por consola una única respuesta entre la A, B, C o D (es indiferente si es en mayúscula o miníscula) 
+y luego pulsar ENTER para validar así su repuesta. Puede salir del juego cuando desee ingresando por consola la letra x (equis) sin perder el acumulado de puntos.
 Al finalizar se podrá vizualizar el nombre y el puntaje de los usuarios que han participado por consola.
 
 ## Funcionamiento de la aplicación
