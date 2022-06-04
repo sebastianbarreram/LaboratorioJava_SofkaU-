@@ -1,0 +1,7 @@
+paol: 150
+paz: 10
+Laoz: 10
+pppp: 10
+ttt: 10
+ppp: 10
+Fabian: 150
