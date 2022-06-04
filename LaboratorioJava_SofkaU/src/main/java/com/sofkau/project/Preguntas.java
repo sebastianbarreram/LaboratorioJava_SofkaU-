@@ -18,9 +18,8 @@ public class Preguntas {
 
     public void cargarDatos(){
         try{
-            String link = "C:\\Calculadora\\LaboratorioJava_SofkaU-\\LaboratorioJava_SofkaU\\";
-            String archivo = "data.json";
-            String data = new String(Files.readAllBytes(Paths.get(link + archivo)));
+            String link = "C:\\Users\\Acer\\Desktop\\LaboratorioJava_SofkaU-\\LaboratorioJava_SofkaU\\data.json";
+            String data = new String(Files.readAllBytes(Paths.get(link)));
 
             // leer como un json array
             this.datos = new JSONArray(data);
@@ -32,7 +31,7 @@ public class Preguntas {
     public JSONObject preguntaAleatoria(int nivel) {
         int auxiliar = 0;
         cargarDatos();
-        int valorAleatorio = this.random.nextInt(4)+2;
+        int valorAleatorio = this.random.nextInt(5)+1;
         for (int i = 0; i < this.datos.length(); i++) {
             String str = this.datos.get(i).toString();
             JSONObject object1 = new JSONObject(str);

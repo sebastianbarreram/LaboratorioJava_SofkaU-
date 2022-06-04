@@ -17,7 +17,7 @@ public class Operacion {
     PrintWriter wr;
     int ronda = 1;
     private int respondida;
-    private String link = "C:\\Calculadora\\LaboratorioJava_SofkaU-\\LaboratorioJava_SofkaU\\Historial.txt";
+    private String link = "C:\\Users\\Acer\\Desktop\\LaboratorioJava_SofkaU-\\LaboratorioJava_SofkaU\\Historial.txt";
     Scanner scanner = new Scanner(System.in);
 
     public void inicio(JSONObject objeto){

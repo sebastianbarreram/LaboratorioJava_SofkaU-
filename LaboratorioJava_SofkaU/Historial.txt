@@ -5,3 +5,4 @@ pppp: 10
 ttt: 10
 ppp: 10
 Fabian: 150
+daniel: 30
