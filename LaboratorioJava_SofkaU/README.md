@@ -1,6 +1,4 @@
-# Solución propuesta por 
-# Sebastian Barrera Marín
-# Daniel Salinas Pinedo
+# Solución propuesta por Sebastian Barrera Marín y Daniel Salinas Pinedo
 
 Se realizó una aplicación para el juego de preguntas. Se utiliza un archivo de .txt para almacenar el historial de usuarios y un archivo .json 
 para la letura de la base de datos de preguntas.
