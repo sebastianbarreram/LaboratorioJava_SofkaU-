@@ -42,7 +42,8 @@ public class Preguntas {
     public JSONObject preguntaAleatoria(int nivel) {
         int auxiliar = 0;
 
-        int valorAleatorio = this.random.nextInt(4)+2;
+        int valorAleatorio = this.random.nextInt(5)+1;
+        System.out.println("valorAleatorio"+valorAleatorio);
         for (int i = 0; i < this.datos.length(); i++) {
             String str = this.datos.get(i).toString();
             JSONObject object1 = new JSONObject(str);

@@ -10,7 +10,7 @@ public class Main {
         preguntas.cargarDatos();
         // System.out.println("datos:");
         // System.out.println(preguntas.getDatos().get(1).toString());
-        JSONObject objeto= preguntas.preguntaAleatoria(1);
+        JSONObject objeto= preguntas.preguntaAleatoria(3);
         System.out.println(objeto.getString("pregunta"));
         System.out.println(objeto.getInt("categoria"));
         System.out.println(objeto.getString("respuesta1"));
@@ -23,6 +23,12 @@ public class Main {
         //System.out.println(preguntas.preguntaAleatoria(1).getString("pregunta"));
         // String age = object1.getString("pregunta");
         // System.out.println(age);
+
+       operacion objOperacion=new operacion();
+       objOperacion.persistir();
+       objOperacion.mostrarHistorial();
+       
+
 
     }
 }
